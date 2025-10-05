@@ -42,4 +42,4 @@ This project analyzes 50k+ e-commerce transactions and delivers an interactive P
 ---
 
 👤 **Author:** Naveen Gatlewar  
-📌 Connect with me on [LinkedIn](your-linkedin-url)  
+📌 Connect with me on [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/naveen-g-071613147/))  
